@@ -34,3 +34,9 @@ fresh_tomatoes.html
 poster images of the movies gets displayed and by clicking the poster image the youtube trailer of the movie gets displayed.
 
 
+#How to launch the project
+
+1)Run the entertainment_center.py python file
+2)Select the movie's trailer you have to play
+3)This views the youtube trailer of the selected poster image
+
